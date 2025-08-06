@@ -1,0 +1,109 @@
+2025-08-05 15:39:14,080 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:39:14,101 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:39:14,108 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:43:32,914 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:43:32,936 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:43:32,942 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:43:44,593 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:43:44,611 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:43:44,617 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:43:50,436 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:43:50,454 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:43:50,459 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:47:57,726 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:48:07,547 - INFO - Testing login with username: student and password: Password123
+2025-08-05 15:48:08,575 - INFO - Quitting Chrome WebDriver
+2025-08-05 15:48:08,635 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:48:14,234 - INFO - Testing login with username: incorrectUser and password: Password123
+2025-08-05 15:48:14,439 - INFO - Quitting Chrome WebDriver
+2025-08-05 15:48:14,499 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:48:17,224 - INFO - Testing login with username: student and password: incorrectPassword
+2025-08-05 15:48:17,465 - INFO - Quitting Chrome WebDriver
+2025-08-05 15:53:05,519 - INFO - Setting up Chrome WebDriver
+2025-08-05 15:53:07,968 - INFO - Testing login with username: student and password: Password123
+2025-08-05 15:53:09,087 - INFO - Login successful and logout button found.
+2025-08-05 15:53:09,087 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:03:28,975 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:03:30,638 - INFO - Testing login with username: practice and password: SuperSecretPassword
+2025-08-05 16:03:35,890 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:08:08,014 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:08:09,716 - INFO - Testing login with username: practice and password: SuperSecretPassword
+2025-08-05 16:08:14,945 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:09:22,862 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:09:24,758 - INFO - Testing login with username: practice and password: SuperSecretPassword
+2025-08-05 16:09:30,027 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:09:54,246 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:09:56,804 - INFO - Testing login with username: practice and password: SuperSecretPassword
+2025-08-05 16:10:02,062 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:10:20,548 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:10:23,065 - INFO - Testing login with username: student and password: Password123
+2025-08-05 16:10:24,190 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:10:24,247 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:10:26,795 - INFO - Testing login with username: practice and password: SuperSecretPassword
+2025-08-05 16:10:32,030 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:12:15,091 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:12:15,589 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:12:15,647 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:12:16,139 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:13:01,085 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:13:01,584 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:13:38,707 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:13:40,276 - INFO - Testing login with username: practice and password: SuperSecretPassword!
+2025-08-05 16:13:45,490 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:24:18,338 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:24:21,796 - INFO - Testing login with username: student and password: Password123
+2025-08-05 16:24:22,853 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:24:22,912 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:24:25,481 - INFO - Testing login with username: practice and password: SuperSecretPassword!
+2025-08-05 16:24:30,770 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:24:47,638 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:24:50,456 - INFO - Testing login with username: student and password: Password123
+2025-08-05 16:24:55,841 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:24:55,902 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:24:57,555 - INFO - Testing login with username: practice and password: SuperSecretPassword!
+2025-08-05 16:25:02,755 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:26:46,099 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:26:47,737 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:26:47,795 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:26:49,386 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:27:15,020 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:27:16,777 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:27:31,497 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:27:33,188 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:27:54,618 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:27:56,152 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:28:16,464 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:28:18,041 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:28:37,620 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:28:39,316 - INFO - Testing login with username: practice and password: SuperSecretPassword!
+2025-08-05 16:28:54,550 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:28:58,938 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:29:00,526 - INFO - Testing login with username: practice and password: SuperSecretPassword!
+2025-08-05 16:29:15,748 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:29:35,805 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:29:37,448 - INFO - Testing login with username: practice and password: SuperSecretPassword!
+2025-08-05 16:29:42,628 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:36:21,962 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:36:26,320 - INFO - Testing login with username: tomsmith and password: SuperSecretPassword!
+2025-08-05 16:36:31,546 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:44:01,023 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:44:07,949 - INFO - Testing login with username: ryadav and password: Rajat@123456
+2025-08-05 16:44:13,034 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:44:18,126 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:44:22,210 - INFO - Testing login with username: ryadav and password: Rajat@123456
+2025-08-05 16:44:27,307 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:47:45,779 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:47:51,612 - INFO - Testing login with username: ryadav and password: Rajat@123456
+2025-08-05 16:47:56,882 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:48:26,895 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:48:36,451 - INFO - Testing login with username: ryadav and password: Rajat@123456
+2025-08-05 16:48:41,692 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:49:20,624 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:49:25,766 - INFO - Testing login with username: ryadav and password: Rajat@123456
+2025-08-05 16:49:26,987 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:49:40,668 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:49:43,124 - INFO - Testing login with username: ryadav and password: Rajat@123456
+2025-08-05 16:49:48,409 - INFO - Quitting Chrome WebDriver
+2025-08-05 16:49:52,891 - INFO - Setting up Chrome WebDriver
+2025-08-05 16:49:55,323 - INFO - Testing login with username: student and password: Password123
+2025-08-05 16:49:56,612 - INFO - Quitting Chrome WebDriver
